@@ -1,6 +1,6 @@
 # Scholar Portal
 
-A modern, responsive dashboard for browsing scholarships, filtering opportunities, making payments, and managing a student profile. Originally generated from a Figma design, now rebuilt with a refreshed UI, dark mode, and interactive dashboard features.
+A modern and responsive Figma dashboard for browsing scholarships, filtering opportunities, making payments, and managing a student profile. Built with a Powerful UI, dark mode, and interactive dashboard features.
 
 ## Features
 
